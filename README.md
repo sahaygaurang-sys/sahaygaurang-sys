@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a engineering student.<br>I'm focusing on Machine Learning and DSA in Java<br>I'm graduating in 2027<br>I belong to Electronics and Telecommunication branch<br><br>
+Engineering student at Sir MVIT, Bengaluru<br>Specializing in data science, AI, signal processing & digital systems<br>Coding in Python, Java, JavaScript and building IoT & automation projects<br>Portfolio goals: code transcompiler with LLM integration<br><br>
 
 
 ## 🌐 Socials:
